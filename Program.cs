@@ -108,7 +108,7 @@ class Program
 
         if (answer == "y")
         {
-            Console.WriteLine("----- Decrypted File Content -----");
+            Console.WriteLine("Decrypted File Content");
             Console.WriteLine(result);
         }
         else
